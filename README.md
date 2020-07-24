@@ -11,4 +11,4 @@ You have five ships to place on your 10x10 board:
 - Submarine (2 long)
 
 The Ai has the same - randomly placing their ships.
-The Ai is faily crude at this stage but I'm hoping to improve it later on.
+The Ai is fairly crude at this stage but I'm hoping to improve it later on.
